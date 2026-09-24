@@ -1,4 +1,4 @@
-# Machine Learning Portfolio
+# Machine Learning
 
 Applied machine learning and analytics projects focused on predictive decision support, market-basket analysis, and time-series forecasting. Each repository provides a reproducible workflow, documented evaluation, and public-safe data.
 
